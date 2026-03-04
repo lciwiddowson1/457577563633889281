@@ -26,14 +26,14 @@ pinout:
   ui[7]: "IN7"
 
   # Outputs
-  uo[0]: "OU0"
-  uo[1]: "OU1"
-  uo[2]: "OU2"
-  uo[3]: "OU3"
-  uo[4]: "OU4"
-  uo[5]: "OU5"
-  uo[6]: "OU6"
-  uo[7]: "OU7"
+  uo[0]: "OUT0"
+  uo[1]: "OUT1"
+  uo[2]: "OUT2"
+  uo[3]: "OUT3"
+  uo[4]: "OUT4"
+  uo[5]: "OUT5"
+  uo[6]: "OUT6"
+  uo[7]: "OUT7"
 
   # Bidirectional pins
   uio[0]: ""
